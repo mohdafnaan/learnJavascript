@@ -13,3 +13,4 @@ console.log(z);// its = 4*4 which is 16.
 
 y %= 3;
 console.log(y); // its the remainder 3/3 which is zero.
+        
